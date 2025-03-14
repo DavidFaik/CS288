@@ -1,0 +1,4 @@
+bob@example.org
+david@company.com
+eve@school.edu
+frank@workplace.net
